@@ -1,0 +1,4 @@
+python_version/venv/
+obj/
+bin/
+.vscode/
