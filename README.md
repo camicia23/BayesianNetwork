@@ -26,3 +26,8 @@ pip install -r requirements.txt
 ## Data
 
 Files in the `data/` folder are taken from the [Bayesian Network Repository](https://www.bnlearn.com/bnrepository/) by Marco Scrutari.
+
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
