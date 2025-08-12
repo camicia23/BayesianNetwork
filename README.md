@@ -3,7 +3,7 @@
 This project allows to compute marginal and conditional probabilities given a discrete Bayesian Network (specified in a BIF file where CPT lines are written in inverse lexicographical order, see ```data/```). To do so, it implements the Variable Elimination algorithm. I also made a simple Python code with the library pgmpy that computes the same thing to double-check the results.
 
 
-To compile and run:
+To compile and run (using clang++ or g++ on macOS):
 
 `make run`
 
